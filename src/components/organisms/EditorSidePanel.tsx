@@ -1,5 +1,5 @@
 import { NodeDataType } from '@/components/pages/Editor'
-import { Node } from 'react-flow-renderer'
+import { Node } from 'reactflow'
 
 interface EditorSidePanelProps {
   settings: any // これがNodeごとに固有になるイメージ
